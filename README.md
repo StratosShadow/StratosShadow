@@ -2,11 +2,14 @@
 
 <h1 align="center">¡Hola, soy StratosShadow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
-<p>
-  🌱 Estudiante de programación en camino a ser FullStack Developer. <br>
-  ⚔️ Fan de los videojuegos y la fantasía épica. <br>
-  📚 Amante de la ciencia ficción. <br>
-</p>
+<img align="left" height="150" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" />
+
+```diff
++ 🌱 Programming student heading to FullStack.
++ ⚔️ Fan of video games and epic fantasy.
++ 📚 Science fiction and technology reader.
+@@ 🔥 “Code doesn't write itself... yet!” @@
+```
 
 <hr>
 
