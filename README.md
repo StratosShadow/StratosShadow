@@ -1,6 +1,6 @@
 ![Banner de StratosShadow](https://github.com/StratosShadow/StratosShadow/blob/main/StratosShadow.png?raw=true)
 
-<h1 align="center">¡Hola, soy StratosShadow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1 align="center">¡Hello, I'm StratosShadow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
 <img align="left" height="150" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" />
 
